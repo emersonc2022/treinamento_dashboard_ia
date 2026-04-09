@@ -1,0 +1,1 @@
+//cole o código do gemini aqui
